@@ -1,0 +1,71 @@
+html{ 
+	height: 100%;
+}
+
+body{ 
+	height: 100%; 
+	margin: 0; 
+	padding: 0;
+}
+
+#map_canvas{ 
+   height: 400px; 
+   margin: 0 auto; 
+   width: 700px; 
+} 
+
+#rep-menu-container h1{ 
+   float: left; 
+   line-height: 30px; 
+   margin: 0 0 0 20px; 
+} 
+
+#rep-menu-container{ 
+   border-bottom: 1px solid #dfdfdf; 
+   font-family: Arial, sans-serif, Helvetica; 
+   font-size: 12px; 
+   height: 30px; 
+   line-height: 30px; 
+   margin: 30px auto 20px auto; 
+   padding: 0 0 10px 0; 
+   text-align: right; 
+   width: 700px; 
+} 
+#rep-select-label{ 
+   display: inline; 
+   font-style: italic; 
+   font-weight: bold; 
+   height: 30px; 
+   margin: 0 10px 0 20px; 
+} 
+
+#rep-select-menu{ 
+   display: inline; 
+   height: 24px; 
+   margin: 3px 20px 0 0;
+    width: 200px;
+} 
+
+.rep{ 
+   font-family: Arial, sans-serif, Helvetica; 
+   font-size: 11px; 
+   line-height: 18px; 
+} 
+
+.rep-email, .rep-cell, .rep-email, .rep-fax, .rep-web{ 
+   font-size: 11px; 
+} 
+
+.rep-label{ 
+   font-weight: bold; 
+} 
+
+.rep-company{ 
+   font-size: 13px; 
+   font-weight: bold; 
+} 
+
+.rep-name{ 
+   font-size: 13px; 
+   margin: 10px 0; 
+}
